@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnderstandingWear</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notify">Notify</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_demand">Demand</string>
+    <string name="title_activity_handheld">Handheld</string>
+    <string name="title_activity_check">CheckActivity</string>
+    <string name="title_activity_coor">Coor</string>
+</resources>
